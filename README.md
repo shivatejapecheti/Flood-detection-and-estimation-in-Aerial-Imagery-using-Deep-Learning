@@ -10,7 +10,8 @@ Dataset : [Click here](https://drive.google.com/drive/folders/1sZZMJkbqJNbHgebKv
 
 ## Overview:
 
-![Flow Work](<img src= "https://github.com/shivatejapecheti/Flood-detection-and-estimation-in-Aerial-Imagery-using-Deep-Learning/assets/126412107/1d15a720-5101-4c31-9380-7562fad38b52" alt="Flow Work" width="100">)
+![Flow Work](<img src= "https://github.com/shivatejapecheti/Flood-detection-and-estimation-in-Aerial-Imagery-using-Deep-Learning/assets/126412107/1d15a720-5101-4c31-9380-7562fad38b52" alt="Flow Work" width="500">)
+
 
 Results:
 
